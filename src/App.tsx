@@ -1,5 +1,4 @@
-import { TaskManager } from "./components/TaskManager";
-import "./App.css";
+import {TaskManager} from "./components/typescript/TaskManager.tsx";
 
 function App() {
   return <TaskManager />;
